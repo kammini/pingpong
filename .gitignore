@@ -35,8 +35,6 @@ main
 # Debug symbols
 *.dSYM/
 
-# IDEs
-.vscode/
 
 # macOS
 .DS_Store
